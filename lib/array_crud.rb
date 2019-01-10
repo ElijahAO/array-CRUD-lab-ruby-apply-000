@@ -8,5 +8,5 @@ end
 
 def add_element_to_end_of_array
   ["hi", "hello", "who", "ok"]
-<<"!"
+<<"hi!"
 end
