@@ -7,5 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array
- ["hi!", "hello!", "who!", "ok!"]
+array=["hi", "hello", "who", "ok"]
+array.push('!')
 end
